@@ -5,6 +5,8 @@ latex
 \usepackage[polski]{babel}
 \usepackage{amssymb}
 \usepackage{amsmath}
+\usepackage[sfdefault]{quattrocento}
+\usepackage[T1]{fontenc}
 \usepackage{wasysym} 
 \usepackage[pdftex]{graphicx}
 
@@ -13,7 +15,7 @@ latex
 \selectlanguage{polski} 
 
 \noindent \textbf{3. Wyznaczniki Grama.}
-
+\scshape
  Przedstawiamy teraz wyniki tego paragrafu dla przypadku, gdy jako form/e kwadratow/a wybrano iloczyn skalarny w przestrzeni euklidesowej, tj.
 \[A(x;;x)\equiv (x,x).\] 
 Wiemy, /ze iloczyn skalarny wektora ze sob/a jest dodatnio okre/slon/a form/a kwadratow/a i na odwr/ot, ka/zd/a symetryczn/a form/e dwuliniow/a, kt/orej odpowiada dodatnio okre/slona forma kwadratowa, mo/zna przyj/a/c za iloczyn skalarny. A zatem ka/zde twierdzenie o dodatnio okre/slonych formach kwadratowych jest jednocześnie pewnym twierdzeniem o wektorach w przestrzeni euklidesowej.
